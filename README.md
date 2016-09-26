@@ -1,2 +1,2 @@
 # scripts
-Play with nashorn engine.
+Utility, test scripts.
